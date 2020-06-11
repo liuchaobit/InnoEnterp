@@ -9,7 +9,7 @@
 ## 竞赛项目指南
 
 * [大学生创新创业训练项目](chapter1.md)
-* 互联网+大学生创新创业大赛
+* [互联网+大学生创新创业大赛](hu-lian-7f51+-da-xue-sheng-chuang-xin-chuang-ye-da-sai.md)
 * [大学生电子设计竞赛](untitled.md)
 * [空中机器人大赛](kong-zhong-ji-qi-ren-da-sai.md)
 * [“挑战杯”全国大学生课外学术科技作品竞赛](201c-tiao-zhan-bei-201d-quan-guo-da-xue-sheng-ke-wai-xue-zhu-ke-ji-zuo-pin-jing-sai.md)
